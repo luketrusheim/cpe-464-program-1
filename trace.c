@@ -1,4 +1,5 @@
 #include <pcap/pcap.h>
+#include <netinet/ether.h>
 #include <net/ethernet.h>
 #include <netinet/if_ether.h>
 #include <arpa/inet.h>
